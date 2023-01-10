@@ -36,11 +36,5 @@
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=nithin-gith&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=false&custom_title=My Github Stats&hide_border=false&border_color=808080&bg_color=242424" alt="nithin-gith"/>
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithin-gith&theme=tokyonight&hide=css,html&hide_border=false&border_color=808080&bg_color=242424" alt="nithin-gith" />
 </p>
-
-<p align="center">
-  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=nithin-gith&theme=tokyonight_duo&hide_border=false" alt="nithin-gith's readme streaks" />
-</p>
-
-
 <h2/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaustubhthakur&" alt="kaustubhthakur" /></p>
