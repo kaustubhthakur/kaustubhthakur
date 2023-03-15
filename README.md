@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **kaustubhthakur0503@gmail.com**
 
-- ⚡ Fun fact **I think I am happy**
+- ⚡ Fun fact **I Do Mathematics All The Time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
