@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm kaustubh thakur</h1>
-<h3 align="center">I am web3-developer and competative programmer from India</h3>
+<h3 align="center">I am backend developer and competative programmer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaustubhthakur&label=Profile%20views&color=0e75b6&style=flat" alt="kaustubhthakur" /> </p>
 
@@ -7,17 +7,17 @@
 
 
 
-- 🔭 I’m currently working on **Decentralised-Chat-app**
+- 🔭 I’m currently working on ****
 
-- 🌱 I’m currently learning **React.js and solana**
+- 🌱 I’m currently learning **machine learning**
 
 - 👨‍💻 All of my projects are available at [https://kaustubhthakur-git-main-kaustubhthakur.vercel.app/](https://kaustubhthakur-git-main-kaustubhthakur.vercel.app/)
 
-- 💬 Ask me about **web3,competitive programming and MERN**
+- 💬 Ask me about **web3,competitive programming and backend development**
 
 - 📫 How to reach me **kaustubhthakur0503@gmail.com**
 
-- ⚡ Fun fact **I Do Mathematics All The Time**
+- ⚡ Fun fact ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
