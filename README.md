@@ -7,7 +7,6 @@
 
 
 
-- 🔭 I’m currently working on **Data-labelling-app**
 
 - 🌱 I’m currently learning **machine learning**
 
@@ -15,9 +14,8 @@
 
 - 💬 Ask me about **web3,competitive programming and backend development**
 
-- 📫 How to reach me **kaustubhthakur0503@gmail.com**
+- 📫 How to reach me **kaustubhthakur76@gmail.com**
 
-- ⚡ Fun fact ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
