@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **machine learning**
 
-- 👨‍💻 All of my projects are available at [https://kaustubhthakur-git-main-kaustubhthakur.vercel.app/](https://kaustubhthakur-git-main-kaustubhthakur.vercel.app/)
+- 👨‍💻 All of my projects are available at [kaustubh.dev](https://kaustubhdev.vercel.app/)
 
-- 💬 Ask me about **web3,competitive programming and backend development**
+- 💬 Ask me about **Systems,Chess,Mathematics,competitive programming and development**
 
-- 📫 How to reach me **kaustubhthakur76@gmail.com**
+- 📫 How to reach me **kaustubhthakur66@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
