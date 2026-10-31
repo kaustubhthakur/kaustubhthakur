@@ -12,26 +12,29 @@
 <!-- ============ THE ID CARD ============ -->
 <table align="center">
   <tr>
-    <td align="center" valign="middle" width="190">
+    <td align="center" valign="top" width="200">
 
-<img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&margin=8&color=2b1055&bgcolor=7ec8bd&data=https%3A%2F%2Fkaustubhdev.vercel.app%2F" width="150" alt="scan to open portfolio" />
+<img src="https://wsrv.nl/?url=github.com/kaustubhthakur.png&w=170&h=210&fit=cover&flop&filt=greyscale" width="170" alt="Kaustubh Thakur" />
 
-<b>KT 20211108</b><br/>
-<sub>SCAN TO ENTER<br/>स्कॅन करा</sub>
+```
+THAKUR,
+KAUSTUBH
+KT 20211108
+```
 
 </td>
     <td valign="top">
 
-| मराठी | ENGLISH | DETAILS |
-| :--- | :--- | :--- |
-| **नाव** | NAME | कौस्तुभ ठाकूर *(मराठी)*<br/>KAUSTUBH THAKUR *(English)* |
-| **दर्जा** | GRADE | ENGINEER |
-| **सेवा क्रमांक** | SERVICE NO | KT 20211108 |
-| **वय** | AGE | ∞ *(always learning)* |
-| **विभाग** | SECTION | CODE CLUB |
-| **मूळ** | ORIGIN | INDIA |
-| **जारी दिनांक** | ISSUED | 08 NOV 2021 |
-| **समाप्ती दिनांक** | EXPIRES | NEVER |
+| FIELD | DETAILS |
+| :--- | :--- |
+| **NAME** | KAUSTUBH THAKUR |
+| **GRADE** | ENGINEER |
+| **SERVICE NO** | KT 20211108 |
+| **AGE** | ∞ *(always learning)* |
+| **SECTION** | CODE CLUB |
+| **ORIGIN** | INDIA |
+| **ISSUED** | 08 NOV 2021 |
+| **EXPIRES** | NEVER |
 
 </td>
   </tr>
@@ -127,16 +130,7 @@
 <h2 align="center">📈 RECORD OF ACTIVITY</h2>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=kaustubhthakur&show_icons=true&hide_border=true&border_radius=6&count_private=true&bg_color=7ec8bd&title_color=2b1055&text_color=0b2b28&icon_color=2b1055" alt="stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubhthakur&layout=compact&langs_count=20&hide_border=true&border_radius=6&bg_color=7ec8bd&title_color=2b1055&text_color=0b2b28" alt="all languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=kaustubhthakur&hide_border=true&border_radius=6&background=7EC8BD&ring=2B1055&fire=2B1055&currStreakNum=0B2B28&sideNums=0B2B28&currStreakLabel=2B1055&sideLabels=0B2B28&dates=24524C" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/7ec8bd/kaustubhthakur" alt="contribution chart" width="85%" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7ec8bd,100:9d4edd&height=3&section=header" width="100%" alt="divider" />
