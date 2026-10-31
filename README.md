@@ -23,16 +23,16 @@
     <td valign="top">
 
 ```yaml
-नाम  NAME ......... कौस्तुभ ठाकुर  (IN HINDI)
+नाव  NAME ......... कौस्तुभ ठाकूर  (IN MARATHI)
                     KAUSTUBH THAKUR (IN ENGLISH)
 
-श्रेणी  GRADE ...... ENGINEER
+दर्जा  GRADE ....... ENGINEER
 सेवा क्रमांक  SERVICE NO ... KT 20211108
-आयु  AGE .......... ∞  (always learning)
-अनुभाग  SECTION ..... CODE CLUB
-मूल  ORIGIN ....... INDIA
-जारी तिथि  ISSUED ... 08 NOV 2021
-समाप्ति तिथि  EXPIRES ... NEVER
+वय  AGE ........... ∞  (always learning)
+विभाग  SECTION ..... CODE CLUB
+मूळ  ORIGIN ....... INDIA
+जारी दिनांक  ISSUED ... 08 NOV 2021
+समाप्ती दिनांक  EXPIRES ... NEVER
 ```
 
 </td>
