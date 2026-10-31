@@ -73,7 +73,7 @@
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=kaustubhthakur&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" alt="stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubhthakur&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&border_radius=12" alt="top languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubhthakur&layout=compact&langs_count=20&theme=tokyonight&hide_border=true&border_radius=12" alt="top languages" />
 </p>
 
 <p align="center">
