@@ -1,76 +1,74 @@
-<!-- ============ TITLE SCREEN ============ -->
+<!-- ============ POSTER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Kaustubh%20Thakur&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=%E2%96%B6%20PRESS%20START&descAlignY=58&descSize=22" alt="title screen" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:3a0000,100:b30000&height=250&section=header&text=CODE%20CLUB&fontSize=76&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=A%20KAUSTUBH%20THAKUR%20PRODUCTION&descAlignY=64&descSize=18" alt="poster header" />
 </p>
 
 <p align="center">
   <a href="https://kaustubhdev.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=900&color=7F5AF0&center=true&vCenter=true&width=720&height=45&lines=PLAYER+1+JOINED+THE+GAME;CLASS%3A+ENGINEER;ORIGIN%3A+INDIA;LOADING+QUESTS...;ALWAYS+LEARNING%2C+ALWAYS+BUILDING" alt="game typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=22&duration=3000&pause=900&color=E11D48&background=00000000&center=true&vCenter=true&width=720&height=50&lines=Break+things.;Fix+things.;Build+things.;Never+stop+learning." alt="tagline" />
   </a>
 </p>
 
-<!-- HUD -->
 <p align="center">
-  <img src="https://img.shields.io/badge/PLAYER-KAUSTUBH-7f5af0?style=for-the-badge" alt="player" />
-  <img src="https://img.shields.io/badge/CLASS-ENGINEER-0e75b6?style=for-the-badge" alt="class" />
-  <img src="https://img.shields.io/badge/REGION-INDIA-ff9933?style=for-the-badge" alt="region" />
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-2ea44f?style=for-the-badge" alt="status" />
+  <img src="https://img.shields.io/badge/RATED-E%20FOR%20ENGINEER-e11d48?style=for-the-badge&labelColor=000000" alt="rated" />
+  <img src="https://img.shields.io/badge/ORIGIN-INDIA-ffffff?style=for-the-badge&labelColor=000000" alt="origin" />
+  <img src="https://img.shields.io/badge/NOW%20SHOWING-GITHUB-e11d48?style=for-the-badge&labelColor=000000" alt="now showing" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kaustubhthakur&label=PLAYERS%20VISITED&color=7f5af0&style=for-the-badge" alt="views" />
-  <a href="https://github.com/kaustubhthakur?tab=followers"><img src="https://img.shields.io/github/followers/kaustubhthakur?label=PARTY%20MEMBERS&style=for-the-badge&logo=github&color=0e75b6" alt="followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=kaustubhthakur&label=VIEWERS&color=e11d48&style=for-the-badge&labelColor=000000" alt="views" />
+  <a href="https://github.com/kaustubhthakur?tab=followers"><img src="https://img.shields.io/github/followers/kaustubhthakur?label=MEMBERS&style=for-the-badge&logo=github&color=ffffff&labelColor=000000" alt="followers" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2&section=header" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:e11d48&height=3&section=header" width="100%" alt="divider" />
 
-<!-- ============ PLAYER CARD ============ -->
-<h2 align="center">🎮 PLAYER CARD</h2>
-
-<table align="center">
-  <tr>
-    <td valign="top">
+<!-- ============ MOVIE CARD ============ -->
+<h2 align="center">🎬 THE MOVIE CARD</h2>
 
 ```
-╔════════════════════════════════════════╗
-║            P L A Y E R   1             ║
-╠════════════════════════════════════════╣
-║  NAME     Kaustubh Thakur              ║
-║  CLASS    Engineer                     ║
-║  ORIGIN   India                        ║
-║  GUILD    kaustubh.dev                 ║
-║  STATUS   ONLINE                       ║
-╠════════════════════════════════════════╣
-║  HP   [██████████]  MAX                ║
-║  MP   [██████████]  MAX                ║
-║  XP   [██████░░░░]  leveling up...     ║
-╚════════════════════════════════════════╝
+┌────────────────────────────────────────────────────┐
+│                                                    │
+│            A  K A U S T U B H   T H A K U R        │
+│                      F I L M                       │
+│                                                    │
+│                  C O D E   C L U B                 │
+│                                                    │
+│          "Break things. Fix things.                │
+│                 Build things."                     │
+│                                                    │
+├────────────────────────────────────────────────────┤
+│  STARRING   JavaScript · TypeScript · Python       │
+│             C · C++ · C# · Rust · Solidity         │
+│  GENRE      Engineering / Systems / Web            │
+│  FILMED IN  India                                  │
+│  RELEASED   2021 – still in production             │
+│  RUNTIME    Always learning, always building       │
+│  RATING     ★ ★ ★ ★ ★   (according to the compiler)│
+└────────────────────────────────────────────────────┘
 ```
 
-</td>
-    <td valign="top">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:e11d48&height=3&section=header" width="100%" alt="divider" />
+
+<!-- ============ THE RULES ============ -->
+<h2 align="center">📋 THE RULES OF THE CLUB</h2>
 
 ```diff
-+ MAIN QUEST : Always learning, always building
-+ SIDE QUEST : Systems, Mathematics, Development
-+ HOME BASE  : kaustubhdev.vercel.app
-+ MAIL BIRD  : kaustubhthakur66@gmail.com
+- RULE 1 : Never stop learning.
+- RULE 2 : Never, ever stop learning.
+- RULE 3 : If it breaks, read the error message first.
+- RULE 4 : Commit early. Commit often.
+- RULE 5 : No bug is invincible.
+- RULE 6 : Write the test before the excuse.
+- RULE 7 : Ship it, then make it better.
+- RULE 8 : Stay free. Stay curious. Stay building.
 ```
 
-<p align="center">
-  <a href="https://kaustubhdev.vercel.app/"><img src="https://img.shields.io/badge/▶%20ENTER%20MY%20WORLD-7f5af0?style=for-the-badge" alt="enter" /></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:e11d48&height=3&section=header" width="100%" alt="divider" />
 
-</td>
-  </tr>
-</table>
+<!-- ============ CAST ============ -->
+<h2 align="center">🎭 CAST &amp; CREW</h2>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2&section=header" width="100%" alt="divider" />
-
-<!-- ============ INVENTORY ============ -->
-<h2 align="center">🎒 INVENTORY</h2>
-
-<h3 align="center">⚔️ Weapons (Languages)</h3>
+<h3 align="center">STARRING</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -87,11 +85,13 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
+<h3 align="center">SUPPORTING CAST</h3>
+
 <table align="center">
   <tr>
-    <td align="center"><b>🛡️ Armor<br/>(Frontend)</b></td>
-    <td align="center"><b>🧪 Potions<br/>(Backend)</b></td>
-    <td align="center"><b>📦 Chests<br/>(Databases)</b></td>
+    <td align="center"><b>🎨 FRONTEND</b></td>
+    <td align="center"><b>⚙️ BACKEND</b></td>
+    <td align="center"><b>🗄️ DATABASES</b></td>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=react,vue,redux,tailwind,bootstrap,sass,babel&perline=4" alt="frontend" /></td>
@@ -99,9 +99,9 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&perline=3" alt="databases" /><br/><img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" /></td>
   </tr>
   <tr>
-    <td align="center"><b>🔮 Spells<br/>(Web3)</b></td>
-    <td align="center"><b>📜 Scrolls<br/>(Data)</b></td>
-    <td align="center"><b>🧰 Utility Belt<br/>(Tools)</b></td>
+    <td align="center"><b>⛓️ WEB3</b></td>
+    <td align="center"><b>📊 DATA</b></td>
+    <td align="center"><b>🛠️ CREW (TOOLS)</b></td>
   </tr>
   <tr>
     <td align="center">
@@ -121,70 +121,40 @@
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2&section=header" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:e11d48&height=3&section=header" width="100%" alt="divider" />
 
-<!-- ============ QUEST LOG ============ -->
-<h2 align="center">📜 QUEST LOG</h2>
-
-<div align="center">
-
-| Status | Quest |
-| :---: | :--- |
-| ✅ | Start the journey on GitHub (Nov 2021) |
-| ✅ | Collect 1,000+ contributions |
-| ✅ | Learn many languages, from C to Rust to Solidity |
-| 🔄 | **MAIN QUEST** — Always learning, always building |
-| 🔒 | Next level — coming soon... |
-
-</div>
-
-<h3 align="center">🏆 ACHIEVEMENTS UNLOCKED</h3>
+<!-- ============ BOX OFFICE ============ -->
+<h2 align="center">🎟️ BOX OFFICE</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ACHIEVEMENT-1000%2B%20CONTRIBUTIONS-gold?style=for-the-badge" alt="1000+ contributions" />
-  <img src="https://img.shields.io/badge/ACHIEVEMENT-9%20DAY%20STREAK-orange?style=for-the-badge" alt="9 day streak" />
-  <img src="https://img.shields.io/badge/ACHIEVEMENT-PLAYING%20SINCE%202021-blueviolet?style=for-the-badge" alt="since 2021" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=kaustubhthakur&show_icons=true&hide_border=true&border_radius=10&count_private=true&bg_color=000000&title_color=e11d48&text_color=ffffff&icon_color=e11d48" alt="stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubhthakur&layout=compact&langs_count=20&hide_border=true&border_radius=10&bg_color=000000&title_color=e11d48&text_color=ffffff" alt="all languages" />
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2&section=header" width="100%" alt="divider" />
-
-<!-- ============ BATTLE STATS ============ -->
-<h2 align="center">⚔️ BATTLE STATS</h2>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=kaustubhthakur&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14&count_private=true&title_color=7f5af0" alt="stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubhthakur&layout=compact&langs_count=20&theme=tokyonight&hide_border=true&border_radius=14&title_color=7f5af0" alt="all languages" />
+  <img src="https://streak-stats.demolab.com/?user=kaustubhthakur&hide_border=true&border_radius=10&background=000000&ring=E11D48&fire=E11D48&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E11D48&sideLabels=FFFFFF&dates=9CA3AF" alt="streak" />
 </p>
-
-<h3 align="center">🔥 COMBO STREAK</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=kaustubhthakur&theme=tokyonight&hide_border=true&border_radius=14" alt="streak" />
+  <img src="https://ghchart.rshah.org/e11d48/kaustubhthakur" alt="contribution chart" width="85%" />
 </p>
 
-<h3 align="center">🗺️ QUEST MAP</h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:e11d48&height=3&section=header" width="100%" alt="divider" />
+
+<!-- ============ TICKETS ============ -->
+<h2 align="center">🎫 GET YOUR TICKET</h2>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/7f5af0/kaustubhthakur" alt="contribution chart" width="85%" />
+  <a href="https://kaustubhdev.vercel.app/"><img src="https://img.shields.io/badge/WATCH%20THE%20PROJECTS-e11d48?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="portfolio" /></a>
+  <a href="mailto:kaustubhthakur66@gmail.com"><img src="https://img.shields.io/badge/SEND%20A%20MESSAGE-ffffff?style=for-the-badge&logo=gmail&logoColor=black&labelColor=000000" alt="email" /></a>
+  <a href="https://github.com/kaustubhthakur"><img src="https://img.shields.io/badge/JOIN%20THE%20CLUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="github" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2&section=header" width="100%" alt="divider" />
-
-<!-- ============ PARTY INVITE ============ -->
-<h2 align="center">🤝 JOIN MY PARTY</h2>
-
-<p align="center">
-  <a href="https://kaustubhdev.vercel.app/"><img src="https://img.shields.io/badge/▶%20PORTFOLIO-0e75b6?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
-  <a href="mailto:kaustubhthakur66@gmail.com"><img src="https://img.shields.io/badge/▶%20SEND%20A%20MESSAGE-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
-  <a href="https://github.com/kaustubhthakur"><img src="https://img.shields.io/badge/▶%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
-</p>
-
-<!-- ============ WISDOM SCROLL ============ -->
-<h3 align="center">🕊️ WISDOM SCROLL</h3>
+<!-- ============ END TITLE CARD ============ -->
 <p align="center"><i>"No man is free who is not master of himself."</i><br/><sub>— Epictetus</sub></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=2500&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=GAME+OVER%3F+NOT+YET...;CONTINUE%3F+%5BY%5D+%2F+%5BN%5D;THANKS+FOR+PLAYING" alt="game over" />
+  <img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=18&duration=2800&pause=1200&color=E11D48&background=00000000&center=true&vCenter=true&width=600&lines=THE+END%3F;NO.+THE+BUILD+CONTINUES.;THANKS+FOR+WATCHING." alt="end credits" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=110&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b30000,100:000000&height=110&section=footer" width="100%" alt="footer" />
