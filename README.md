@@ -84,21 +84,13 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaustubhthakur&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="activity graph" />
+  <img src="https://ghchart.rshah.org/0e75b6/kaustubhthakur" alt="contribution chart" width="90%" />
 </p>
 
 ## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/kaustubhthakur/kaustubhthakur/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
-## 🏆 Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kaustubhthakur&theme=onedark&no-frame=true&no-bg=true&margin-w=12&column=7" alt="trophies" />
-  </a>
 </p>
 
 ---
