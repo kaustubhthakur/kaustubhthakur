@@ -1,12 +1,12 @@
 <!-- Animated header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7f5af0&height=220&section=header&text=Kaustubh%20Thakur&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineer%20%7C%20Systems%20%7C%20Web3%20%7C%20Full-Stack&descAlignY=58&descSize=18" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7f5af0&height=220&section=header&text=Kaustubh%20Thakur&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineer%20from%20India&descAlignY=58&descSize=18" alt="header" />
 </p>
 
 <!-- Typing animation -->
 <p align="center">
   <a href="https://kaustubhdev.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Kaustubh+Thakur;Engineer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Full-Stack+%26+Smart+Contract+Developer;Competitive+Programmer+%7C+Chess+Player+%E2%99%9F%EF%B8%8F;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Kaustubh+Thakur;Engineer+from+India;Always+learning%2C+always+building" alt="Typing SVG" />
   </a>
 </p>
 
@@ -24,9 +24,8 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I build projects across **systems, web and blockchain** — all of them live at [kaustubh.dev](https://kaustubhdev.vercel.app/)
-- 💬 Ask me about **Systems, Chess, Mathematics, Competitive Programming & Development**
-- 🌱 Currently exploring **smart contracts, Rust and system design**
+- 🔭 My projects are available at [kaustubh.dev](https://kaustubhdev.vercel.app/)
+- 💬 Ask me about **systems, mathematics and development**
 - 📫 Reach me at **kaustubhthakur66@gmail.com**
 
 ---
@@ -87,16 +86,10 @@
   <img src="https://ghchart.rshah.org/0e75b6/kaustubhthakur" alt="contribution chart" width="90%" />
 </p>
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kaustubhthakur/kaustubhthakur/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
 ---
 
 <p align="center">
-  <i>"Talk is cheap. Show me the code."</i> — Linus Torvalds
+  <i>"No man is free who is not master of himself."</i> — Epictetus
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f5af0,100:0e75b6&height=120&section=footer" width="100%" alt="footer" />
