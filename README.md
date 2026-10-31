@@ -46,7 +46,7 @@ const kaustubh = {
 + 🔭 Projects   → kaustubh.dev
 + 💬 Ask me     → systems, maths & dev
 + 📫 Reach me   → kaustubhthakur66@gmail.com
-+ ⚙️ Works with → JS, TS, Python, C++, Rust,
++ ⚙️ Works with → JS, TS, Python, C#, C++, Rust,
 +                 Solidity & more
 ```
 
@@ -69,6 +69,7 @@ const kaustubh = {
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
@@ -87,9 +88,9 @@ const kaustubh = {
     <td align="center"><b>🗄️ Databases</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,sass,babel&perline=3" alt="frontend" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,django,graphql&perline=2" alt="backend" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&perline=3" alt="databases" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react,vue,redux,tailwind,bootstrap,sass,babel&perline=4" alt="frontend" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,django,graphql,dotnet,cs&perline=3" alt="backend" /><br/><img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&perline=3" alt="databases" /><br/><img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" /></td>
   </tr>
   <tr>
     <td align="center"><b>⛓️ Web3</b></td>
