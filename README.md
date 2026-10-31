@@ -5,35 +5,33 @@
 
 <p align="center">
   <a href="https://kaustubhdev.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=20&duration=3000&pause=900&color=7EC8BD&background=00000000&center=true&vCenter=true&width=720&height=45&lines=NAME%3A+KAUSTUBH+THAKUR;GRADE%3A+ENGINEER;SECTION%3A+CODE+CLUB;DATE+EXPIRED%3A+NEVER" alt="card typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=20&duration=3000&pause=900&color=7EC8BD&center=true&vCenter=true&width=720&height=45&lines=NAME%3A+KAUSTUBH+THAKUR;GRADE%3A+ENGINEER;SECTION%3A+CODE+CLUB;DATE+EXPIRED%3A+NEVER" alt="card typing" />
   </a>
 </p>
 
 <!-- ============ THE ID CARD ============ -->
 <table align="center">
   <tr>
-    <td align="center" valign="top" width="200">
+    <td align="center" valign="middle" width="190">
 
-<img src="https://github.com/kaustubhthakur.png?size=200" width="160" alt="Kaustubh Thakur" />
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&margin=8&color=2b1055&bgcolor=7ec8bd&data=https%3A%2F%2Fkaustubhdev.vercel.app%2F" width="150" alt="scan to open portfolio" />
 
-<b>THAKUR,<br/>KAUSTUBH</b><br/>
-<sub>KT 20211108</sub>
+<b>KT 20211108</b><br/>
+<sub>SCAN TO ENTER<br/>स्कॅन करा</sub>
 
 </td>
     <td valign="top">
 
-```yaml
-नाव  NAME ......... कौस्तुभ ठाकूर  (IN MARATHI)
-                    KAUSTUBH THAKUR (IN ENGLISH)
-
-दर्जा  GRADE ....... ENGINEER
-सेवा क्रमांक  SERVICE NO ... KT 20211108
-वय  AGE ........... ∞  (always learning)
-विभाग  SECTION ..... CODE CLUB
-मूळ  ORIGIN ....... INDIA
-जारी दिनांक  ISSUED ... 08 NOV 2021
-समाप्ती दिनांक  EXPIRES ... NEVER
-```
+| मराठी | ENGLISH | DETAILS |
+| :--- | :--- | :--- |
+| **नाव** | NAME | कौस्तुभ ठाकूर *(मराठी)*<br/>KAUSTUBH THAKUR *(English)* |
+| **दर्जा** | GRADE | ENGINEER |
+| **सेवा क्रमांक** | SERVICE NO | KT 20211108 |
+| **वय** | AGE | ∞ *(always learning)* |
+| **विभाग** | SECTION | CODE CLUB |
+| **मूळ** | ORIGIN | INDIA |
+| **जारी दिनांक** | ISSUED | 08 NOV 2021 |
+| **समाप्ती दिनांक** | EXPIRES | NEVER |
 
 </td>
   </tr>
@@ -155,7 +153,7 @@
 <p align="center"><i>"No man is free who is not master of himself."</i><br/><sub>— Epictetus</sub></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=16&duration=2800&pause=1200&color=9D4EDD&background=00000000&center=true&vCenter=true&width=600&lines=CARD+VALID+UNTIL%3A+NEVER;THE+BUILD+CONTINUES.;THANKS+FOR+VISITING." alt="end" />
+  <img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=16&duration=2800&pause=1200&color=9D4EDD&center=true&vCenter=true&width=600&lines=CARD+VALID+UNTIL%3A+NEVER;THE+BUILD+CONTINUES.;THANKS+FOR+VISITING." alt="end" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4fa89c,100:7ec8bd&height=40&section=footer&text=CARD%20SERIAL%20NO.%20000%201108&fontSize=14&fontColor=2b1055&fontAlignY=62" width="100%" alt="footer" />
