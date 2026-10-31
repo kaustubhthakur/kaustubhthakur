@@ -10,39 +10,8 @@
 </p>
 
 <!-- ============ THE ID CARD ============ -->
-<table align="center">
-  <tr>
-    <td align="center" valign="top" width="200">
-
-<img src="https://github.com/kaustubhthakur.png?size=200" width="170" alt="Kaustubh Thakur" />
-
-```
-THAKUR,
-KAUSTUBH
-KT 20211108
-```
-
-</td>
-    <td valign="top">
-
-| FIELD | DETAILS |
-| :--- | :--- |
-| **NAME** | KAUSTUBH THAKUR |
-| **GRADE** | ENGINEER |
-| **SERVICE NO** | KT 20211108 |
-| **AGE** | ∞ *(always learning)* |
-| **SECTION** | CODE CLUB |
-| **ORIGIN** | INDIA |
-| **ISSUED** | 08 NOV 2021 |
-| **EXPIRES** | NEVER |
-
-</td>
-  </tr>
-</table>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/CODE%20CLUB-APPROVED-9d4edd?style=for-the-badge&labelColor=2b1055" alt="stamp" />
-  <img src="https://img.shields.io/badge/CARD%20SERIAL%20NO.-000%201108-7ec8bd?style=for-the-badge&labelColor=24524c" alt="serial" />
+  <img src="assets/id-card.svg" width="820" alt="Kaustubh Thakur — Code Club service identity card" />
 </p>
 
 <p align="center">
@@ -56,14 +25,8 @@ KT 20211108
 <h2 align="center">📋 REVERSE SIDE: CLUB RULES</h2>
 
 ```diff
-+ RULE 1 : Never stop learning.
-+ RULE 2 : Never, ever stop learning.
-+ RULE 3 : If it breaks, read the error message first.
-+ RULE 4 : Commit early. Commit often.
-+ RULE 5 : No bug is invincible.
-+ RULE 6 : Write the test before the excuse.
-+ RULE 7 : Ship it, then make it better.
-+ RULE 8 : Stay free. Stay curious. Stay building.
++ FIRST RULE  : Never stop learning.
++ SECOND RULE : Follow the first rule.
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7ec8bd,100:9d4edd&height=3&section=header" width="100%" alt="divider" />
@@ -144,7 +107,11 @@ KT 20211108
   <a href="https://github.com/kaustubhthakur"><img src="https://img.shields.io/badge/JOIN%20THE%20CLUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=24524c" alt="github" /></a>
 </p>
 
+<h3 align="center">🕯️ FINAL WORDS</h3>
+
 <p align="center"><i>"No man is free who is not master of himself."</i><br/><sub>— Epictetus</sub></p>
+
+<p align="center"><i>"Every life weighs the same, and that is the heaviest truth of all."</i><br/><sub>— written in the spirit of <b>Monster</b> by Naoki Urasawa</sub></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=16&duration=2800&pause=1200&color=9D4EDD&center=true&vCenter=true&width=600&lines=CARD+VALID+UNTIL%3A+NEVER;THE+BUILD+CONTINUES.;THANKS+FOR+VISITING." alt="end" />
