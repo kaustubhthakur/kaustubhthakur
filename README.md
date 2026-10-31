@@ -14,7 +14,7 @@
   <tr>
     <td align="center" valign="top" width="200">
 
-<img src="https://wsrv.nl/?url=github.com/kaustubhthakur.png&w=170&h=210&fit=cover&flop&filt=greyscale" width="170" alt="Kaustubh Thakur" />
+<img src="https://github.com/kaustubhthakur.png?size=200" width="170" alt="Kaustubh Thakur" />
 
 ```
 THAKUR,
